@@ -5,9 +5,9 @@ Knock Knock is a mobile application developed using React Native. This app fetch
 # Screenshots
 ![AppExamples1](ss1.png)
 ![AppExamples2](ss2.png)
-![AppExamples3](ss3.png)
-![AppExamples4](ss4.png)
-![AppExamples5](ss5.png)
+![AppExamples3](vd1.mp4)
+![AppExamples4](vd2.mp4)
+![AppExamples5](vd3.mp4)
 # Features
 
 - View jokes fetched from a REST API
